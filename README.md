@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Divyansh 👋
 
-<!--
-**Divyansh-k-Dubey/Divyansh-k-Dubey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech student in Electronics & Instrumentation  
+💻 Passionate about AI, ML and Software Development  
+🚀 Currently learning DSA and building AI projects  
+🔥 Goal: Software Engineer / AI Engineer
 
-Here are some ideas to get you started:
+## Skills
+- C++, Python
+- Data Structures & Algorithms
+- Machine Learning (Beginner)
+- Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Sentiment Analysis App (Python + Streamlit)
