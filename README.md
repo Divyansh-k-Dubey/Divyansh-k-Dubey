@@ -7,6 +7,8 @@
 
 ## Skills
 - C++, Python
+- Operating System, Oops
+- DBMS,Computer Networking
 - Data Structures & Algorithms
 - Machine Learning (Beginner)
 - Git, GitHub
